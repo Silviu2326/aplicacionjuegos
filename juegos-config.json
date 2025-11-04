@@ -1,0 +1,182 @@
+{
+  "modulos": [
+    {
+      "modulo": "QuePrefieresExtremo",
+      "archivo_md": "¿Qué-Prefieres-(Extremo).md"
+    },
+    {
+      "modulo": "QuienSoyVersionPreguntas",
+      "archivo_md": "¿Quién-Soy-(Versión-Preguntas).md"
+    },
+    {
+      "modulo": "QuienSoyDigital",
+      "archivo_md": "¿Quién-Soy-Digital.md"
+    },
+    {
+      "modulo": "AFakeArtistGoesToNewYork",
+      "archivo_md": "A-Fake-Artist-Goes-to-New-York.md"
+    },
+    {
+      "modulo": "AmongUsVersionDeMesa",
+      "archivo_md": "Among-Us-(versión-de-mesa).md"
+    },
+    {
+      "modulo": "BloodOnTheClocktower",
+      "archivo_md": "Blood-on-the-Clocktower.md"
+    },
+    {
+      "modulo": "CadaverExquisito2",
+      "archivo_md": "Cadáver-Exquisito-2.0.md"
+    },
+    {
+      "modulo": "CadenaDeEmojisNarrativa",
+      "archivo_md": "Cadena-de-Emojis-Narrativa.md"
+    },
+    {
+      "modulo": "ConexionInesperada",
+      "archivo_md": "Conexión-Inesperada.md"
+    },
+    {
+      "modulo": "ContinuaLaFrase",
+      "archivo_md": "Continúa-la-Frase.md"
+    },
+    {
+      "modulo": "Coup",
+      "archivo_md": "Coup.md"
+    },
+    {
+      "modulo": "CriticoDeCineAbsurdo",
+      "archivo_md": "Crítico-de-Cine-Absurdo.md"
+    },
+    {
+      "modulo": "DeceptionMurderInHongKong",
+      "archivo_md": "Deception-Murder-in-Hong-Kong.md"
+    },
+    {
+      "modulo": "DosVerdadesUnaMentira",
+      "archivo_md": "Dos-Verdades,-Una-Mentira.md"
+    },
+    {
+      "modulo": "DosVerdadesYUnaMentira",
+      "archivo_md": "Dos-Verdades-y-Una-Mentira.md"
+    },
+    {
+      "modulo": "ElDetectiveDeObjetos",
+      "archivo_md": "El-Detective-de-Objetos.md"
+    },
+    {
+      "modulo": "ElDiccionarioDiabolico",
+      "archivo_md": "El-Diccionario-Diabólico.md"
+    },
+    {
+      "modulo": "ElDiccionarioFalso",
+      "archivo_md": "El-Diccionario-Falso.md"
+    },
+    {
+      "modulo": "ElEntrevistadorInesperado",
+      "archivo_md": "El-Entrevistador-Inesperado.md"
+    },
+    {
+      "modulo": "ElHombreLoboDeCastronegro",
+      "archivo_md": "El-Hombre-Lobo-de-Castronegro.md"
+    },
+    {
+      "modulo": "ElInterrogatorio",
+      "archivo_md": "El-Interrogatorio.md"
+    },
+    {
+      "modulo": "ElSonidistaCiego",
+      "archivo_md": "El-Sonidista-Ciego.md"
+    },
+    {
+      "modulo": "ElSuperlativo",
+      "archivo_md": "El-Superlativo.md"
+    },
+    {
+      "modulo": "FeedTheKraken",
+      "archivo_md": "Feed-the-Kraken.md"
+    },
+    {
+      "modulo": "GeoguessrDeSalon",
+      "archivo_md": "Geoguessr-de-Salón.md"
+    },
+    {
+      "modulo": "Insider",
+      "archivo_md": "Insider.md"
+    },
+    {
+      "modulo": "LaVozMisteriosaAudioQuiz",
+      "archivo_md": "La-Voz-Misteriosa-(Audio-Quiz).md"
+    },
+    {
+      "modulo": "LineaDeTiempoConfusa",
+      "archivo_md": "Línea-de-Tiempo-Confusa.md"
+    },
+    {
+      "modulo": "MaestroDelAcronimo",
+      "archivo_md": "Maestro-del-Acrónimo.md"
+    },
+    {
+      "modulo": "MaestroDeLasCitas",
+      "archivo_md": "Maestro-de-las-Citas.md"
+    },
+    {
+      "modulo": "Mascarade",
+      "archivo_md": "Mascarade.md"
+    },
+    {
+      "modulo": "OneNightUltimateWerewolf",
+      "archivo_md": "One-Night-Ultimate-Werewolf.md"
+    },
+    {
+      "modulo": "OrdenaLaHistoria",
+      "archivo_md": "Ordena-la-Historia.md"
+    },
+    {
+      "modulo": "Salem1692",
+      "archivo_md": "Salem-1692.md"
+    },
+    {
+      "modulo": "SecretHitler",
+      "archivo_md": "Secret-Hitler.md"
+    },
+    {
+      "modulo": "Spyfall",
+      "archivo_md": "Spyfall.md"
+    },
+    {
+      "modulo": "SuperheroeEnApuros",
+      "archivo_md": "Superhéroe-en-Apuros.md"
+    },
+    {
+      "modulo": "TabuPorEquipos",
+      "archivo_md": "Tabú-por-Equipos.md"
+    },
+    {
+      "modulo": "TheResistanceAvalon",
+      "archivo_md": "The-Resistance-Avalon.md"
+    },
+    {
+      "modulo": "TriviaDeEmojis",
+      "archivo_md": "Trivia-de-Emojis.md"
+    },
+    {
+      "modulo": "TrivialPursuitClasicoMovil",
+      "archivo_md": "Trivial-Pursuit-Clásico-(Móvil).md"
+    },
+    {
+      "modulo": "TwoRoomsAndABoom",
+      "archivo_md": "Two-Rooms-and-a-Boom.md"
+    },
+    {
+      "modulo": "VerdaderoOFalsoExtremo",
+      "archivo_md": "Verdadero-o-Falso-Extremo.md"
+    }
+  ],
+  "configuracion": {
+    "tiempo_espera": 30,
+    "modo": "secuencial",
+    "reintentos": 2
+  },
+  "descripcion": "Archivo con 43 módulos de juegos individuales para el modo MD → Módulo del sistema de juegos"
+}
