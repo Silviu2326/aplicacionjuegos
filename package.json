@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@expo/webpack-config": "^19.0.1",
+    "@notionhq/client": "^5.3.0",
     "@react-navigation/native": "^6.1.18",
     "expo": "~49.0.15",
     "expo-router": "^2.0.0",
