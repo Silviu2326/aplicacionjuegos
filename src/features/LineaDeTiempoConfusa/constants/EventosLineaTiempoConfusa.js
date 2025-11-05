@@ -1,0 +1,91 @@
+export const EventosLineaTiempoConfusa = {
+  "Historia Antigua": [
+    { id: 1, texto: "Construcción de la Gran Pirámide de Giza", ano: -2580, categoria: "Historia Antigua" },
+    { id: 2, texto: "Nacimiento de la Democracia en Atenas", ano: -508, categoria: "Historia Antigua" },
+    { id: 3, texto: "Fundación de Roma", ano: -753, categoria: "Historia Antigua" },
+    { id: 4, texto: "Caída del Imperio Romano de Occidente", ano: 476, categoria: "Historia Antigua" },
+    { id: 5, texto: "Batalla de las Termópilas", ano: -480, categoria: "Historia Antigua" },
+    { id: 6, texto: "Asesinato de Julio César", ano: -44, categoria: "Historia Antigua" },
+    { id: 7, texto: "Construcción del Coliseo de Roma", ano: 80, categoria: "Historia Antigua" },
+    { id: 8, texto: "Construcción de la Gran Muralla China", ano: -221, categoria: "Historia Antigua" },
+  ],
+  
+  "Inventos Clave": [
+    { id: 9, texto: "Invención de la rueda", ano: -3500, categoria: "Inventos Clave" },
+    { id: 10, texto: "Invención de la imprenta por Gutenberg", ano: 1440, categoria: "Inventos Clave" },
+    { id: 11, texto: "Patente del teléfono por Alexander Graham Bell", ano: 1876, categoria: "Inventos Clave" },
+    { id: 12, texto: "Primer vuelo de los hermanos Wright", ano: 1903, categoria: "Inventos Clave" },
+    { id: 13, texto: "Invención de la World Wide Web", ano: 1989, categoria: "Inventos Clave" },
+    { id: 14, texto: "Primera máquina de vapor funcional", ano: 1712, categoria: "Inventos Clave" },
+    { id: 15, texto: "Descubrimiento de la penicilina", ano: 1928, categoria: "Inventos Clave" },
+    { id: 16, texto: "Primera bombilla incandescente", ano: 1879, categoria: "Inventos Clave" },
+    { id: 17, texto: "Primera fotografía", ano: 1826, categoria: "Inventos Clave" },
+    { id: 18, texto: "Primera computadora programable", ano: 1941, categoria: "Inventos Clave" },
+  ],
+  
+  "Cultura Pop Siglo XX": [
+    { id: 19, texto: "Lanzamiento de 'Star Wars: A New Hope'", ano: 1977, categoria: "Cultura Pop Siglo XX" },
+    { id: 20, texto: "Lanzamiento del álbum 'Thriller' de Michael Jackson", ano: 1982, categoria: "Cultura Pop Siglo XX" },
+    { id: 21, texto: "Estreno del primer episodio de 'Friends'", ano: 1994, categoria: "Cultura Pop Siglo XX" },
+    { id: 22, texto: "Lanzamiento de 'The Beatles' - Abbey Road", ano: 1969, categoria: "Cultura Pop Siglo XX" },
+    { id: 23, texto: "Estreno de 'The Godfather'", ano: 1972, categoria: "Cultura Pop Siglo XX" },
+    { id: 24, texto: "Lanzamiento de 'Super Mario Bros'", ano: 1985, categoria: "Cultura Pop Siglo XX" },
+    { id: 25, texto: "Primera emisión de 'The Simpsons'", ano: 1989, categoria: "Cultura Pop Siglo XX" },
+    { id: 26, texto: "Lanzamiento del Walkman de Sony", ano: 1979, categoria: "Cultura Pop Siglo XX" },
+  ],
+  
+  "Tecnología Móvil": [
+    { id: 27, texto: "Lanzamiento del primer iPhone", ano: 2007, categoria: "Tecnología Móvil" },
+    { id: 28, texto: "Lanzamiento del sistema operativo Android", ano: 2008, categoria: "Tecnología Móvil" },
+    { id: 29, texto: "Adquisición de WhatsApp por Facebook", ano: 2014, categoria: "Tecnología Móvil" },
+    { id: 30, texto: "Primera llamada desde un teléfono móvil", ano: 1973, categoria: "Tecnología Móvil" },
+    { id: 31, texto: "Lanzamiento del primer SMS", ano: 1992, categoria: "Tecnología Móvil" },
+    { id: 32, texto: "Lanzamiento de TikTok", ano: 2016, categoria: "Tecnología Móvil" },
+    { id: 33, texto: "Lanzamiento de Instagram", ano: 2010, categoria: "Tecnología Móvil" },
+    { id: 34, texto: "Lanzamiento del iPad", ano: 2010, categoria: "Tecnología Móvil" },
+  ],
+  
+  "Exploración Espacial": [
+    { id: 35, texto: "Primer ser humano en el espacio (Yuri Gagarin)", ano: 1961, categoria: "Exploración Espacial" },
+    { id: 36, texto: "Primera llegada a la Luna", ano: 1969, categoria: "Exploración Espacial" },
+    { id: 37, texto: "Lanzamiento del Sputnik 1", ano: 1957, categoria: "Exploración Espacial" },
+    { id: 38, texto: "Lanzamiento del Telescopio Hubble", ano: 1990, categoria: "Exploración Espacial" },
+    { id: 39, texto: "Llegada del rover Curiosity a Marte", ano: 2012, categoria: "Exploración Espacial" },
+    { id: 40, texto: "Primera estación espacial (Salyut 1)", ano: 1971, categoria: "Exploración Espacial" },
+    { id: 41, texto: "Primera mujer en el espacio (Valentina Tereshkova)", ano: 1963, categoria: "Exploración Espacial" },
+    { id: 42, texto: "Lanzamiento de la misión Voyager 1", ano: 1977, categoria: "Exploración Espacial" },
+  ],
+  
+  "Guerras Mundiales": [
+    { id: 43, texto: "Inicio de la Primera Guerra Mundial", ano: 1914, categoria: "Guerras Mundiales" },
+    { id: 44, texto: "Fin de la Primera Guerra Mundial", ano: 1918, categoria: "Guerras Mundiales" },
+    { id: 45, texto: "Inicio de la Segunda Guerra Mundial", ano: 1939, categoria: "Guerras Mundiales" },
+    { id: 46, texto: "Fin de la Segunda Guerra Mundial", ano: 1945, categoria: "Guerras Mundiales" },
+    { id: 47, texto: "Ataque a Pearl Harbor", ano: 1941, categoria: "Guerras Mundiales" },
+    { id: 48, texto: "Desembarco de Normandía", ano: 1944, categoria: "Guerras Mundiales" },
+    { id: 49, texto: "Bombardeo atómico de Hiroshima", ano: 1945, categoria: "Guerras Mundiales" },
+    { id: 50, texto: "Caída del Muro de Berlín", ano: 1989, categoria: "Guerras Mundiales" },
+  ],
+  
+  "Literatura": [
+    { id: 51, texto: "Publicación de 'Don Quijote de la Mancha'", ano: 1605, categoria: "Literatura" },
+    { id: 52, texto: "Publicación de 'Frankenstein'", ano: 1818, categoria: "Literatura" },
+    { id: 53, texto: "Publicación de '1984' de George Orwell", ano: 1949, categoria: "Literatura" },
+    { id: 54, texto: "Publicación de 'El Señor de los Anillos'", ano: 1954, categoria: "Literatura" },
+    { id: 55, texto: "Publicación de 'Harry Potter y la Piedra Filosofal'", ano: 1997, categoria: "Literatura" },
+    { id: 56, texto: "Publicación de 'Cien años de soledad'", ano: 1967, categoria: "Literatura" },
+    { id: 57, texto: "Publicación de 'El Principito'", ano: 1943, categoria: "Literatura" },
+    { id: 58, texto: "Publicación de 'Drácula'", ano: 1897, categoria: "Literatura" },
+  ],
+  
+  "Ciencia": [
+    { id: 59, texto: "Teoría de la Relatividad de Einstein", ano: 1905, categoria: "Ciencia" },
+    { id: 60, texto: "Descubrimiento del ADN", ano: 1953, categoria: "Ciencia" },
+    { id: 61, texto: "Teoría de la Evolución de Darwin", ano: 1859, categoria: "Ciencia" },
+    { id: 62, texto: "Ley de la Gravitación Universal de Newton", ano: 1687, categoria: "Ciencia" },
+    { id: 63, texto: "Descubrimiento de los rayos X", ano: 1895, categoria: "Ciencia" },
+    { id: 64, texto: "Primer trasplante de corazón", ano: 1967, categoria: "Ciencia" },
+    { id: 65, texto: "Descubrimiento de la estructura del átomo", ano: 1911, categoria: "Ciencia" },
+    { id: 66, texto: "Clonación de la oveja Dolly", ano: 1996, categoria: "Ciencia" },
+  ],
+};

@@ -1,0 +1,170 @@
+// Lista de pares de conceptos para el juego Conexión Inesperada
+// Cada par contiene dos conceptos que aparentemente no tienen relación
+
+export const CONCEPT_PAIRS = [
+  // Arte y Cultura
+  ['Un pingüino', 'La Mona Lisa'],
+  ['Drácula', 'Una ensalada César'],
+  ['Leonardo da Vinci', 'Una hamburguesa'],
+  ['Shakespeare', 'Un semáforo'],
+  ['Cleopatra', 'Un dron de reparto'],
+  ['El Big Ben', 'Una galleta de la fortuna'],
+  ['La Torre Eiffel', 'Un pulpo'],
+  ['El Coliseo', 'Un plátano'],
+  ['La Estatua de la Libertad', 'Un paraguas'],
+  ['Van Gogh', 'Un semáforo'],
+  ['Mozart', 'Una lata de refresco'],
+  ['Picasso', 'Un paraguas'],
+  
+  // Naturaleza y Ciencia
+  ['Un agujero negro', 'Un par de calcetines desparejados'],
+  ['El sol', 'Un paraguas roto'],
+  ['Una ballena azul', 'Un botón de elevador'],
+  ['Un volcán', 'Un lápiz'],
+  ['Una medusa', 'Un libro de cocina'],
+  ['Einstein', 'Una cuerda de saltar'],
+  ['Un elefante', 'Un reloj de arena'],
+  ['Un T-Rex', 'Un atasco de tráfico'],
+  ['Un pingüino', 'Un ordenador portátil'],
+  ['Un león', 'Un par de gafas'],
+  ['Un delfín', 'Un cepillo de dientes'],
+  ['Una mariposa', 'Un reloj despertador'],
+  ['Un oso panda', 'Un teléfono móvil'],
+  ['Un koala', 'Una calculadora'],
+  ['Un tiburón', 'Un libro'],
+  ['Un águila', 'Un par de zapatos'],
+  ['Un lobo', 'Una cámara'],
+  ['Un zorro', 'Un lápiz'],
+  ['Un conejo', 'Un ordenador'],
+  ['Un gato', 'Un semáforo'],
+  
+  // Tecnología y Modernidad
+  ['Un teléfono móvil de 1998', 'La velocidad de la luz'],
+  ['Un fantasma', 'La conexión Wi-Fi'],
+  ['Napoleón', 'Una aplicación móvil'],
+  ['Un robot', 'Una flor'],
+  ['Un helicóptero', 'Una taza de té'],
+  ['Un dron', 'Un bolígrafo'],
+  ['Una tableta', 'Un girasol'],
+  ['Un altavoz inteligente', 'Un árbol'],
+  ['Un GPS', 'Una montaña'],
+  ['Una cámara de seguridad', 'Un río'],
+  ['Un videojuego', 'Un océano'],
+  ['Redes sociales', 'Un desierto'],
+  ['Inteligencia artificial', 'Una flor'],
+  ['Realidad virtual', 'Un bosque'],
+  ['Criptomonedas', 'Una nube'],
+  
+  // Objetos Cotidianos
+  ['Un paraguas', 'La Luna'],
+  ['Un reloj', 'Un volcán'],
+  ['Un lápiz', 'El espacio'],
+  ['Un libro', 'Un tornado'],
+  ['Un vaso', 'Una galaxia'],
+  ['Un bolígrafo', 'Un huracán'],
+  ['Un par de zapatos', 'Un planeta'],
+  ['Un espejo', 'Un rayo'],
+  ['Una llave', 'Un terremoto'],
+  ['Un paraguas', 'Un meteorito'],
+  ['Un cepillo', 'Un eclipse'],
+  ['Un candado', 'Una estrella'],
+  ['Un par de gafas', 'Un cometa'],
+  ['Un sombrero', 'Un arcoíris'],
+  ['Un cinturón', 'Una aurora'],
+  
+  // Personajes Históricos y Ficción
+  ['Julio César', 'Un plátano'],
+  ['Genghis Khan', 'Una manzana'],
+  ['Marie Curie', 'Un coche'],
+  ['Frida Kahlo', 'Un avión'],
+  ['Steve Jobs', 'Un barco'],
+  ['Gandhi', 'Un tren'],
+  ['Nelson Mandela', 'Una bicicleta'],
+  ['Albert Einstein', 'Un globo'],
+  ['Isaac Newton', 'Una cometa'],
+  ['Galileo', 'Un yoyo'],
+  ['Darwin', 'Un trompo'],
+  ['Tesla', 'Un balón'],
+  
+  // Lugares y Arquitectura
+  ['La Gran Muralla China', 'Un clip'],
+  ['Machu Picchu', 'Un imperdible'],
+  ['El Taj Mahal', 'Un sacapuntas'],
+  ['Stonehenge', 'Un borrador'],
+  ['Las Pirámides', 'Un compás'],
+  ['El Golden Gate', 'Un lápiz'],
+  ['La Sagrada Familia', 'Una goma'],
+  ['El Partenón', 'Un rotulador'],
+  ['La Alhambra', 'Un marcador'],
+  ['Versalles', 'Un subrayador'],
+  
+  // Comida y Bebida
+  ['Una pizza', 'El universo'],
+  ['Un helado', 'Un átomo'],
+  ['Un café', 'Una molécula'],
+  ['Un sandwich', 'Un quark'],
+  ['Una sopa', 'Un neutrino'],
+  ['Un pastel', 'Un fotón'],
+  ['Un sushi', 'Un electrón'],
+  ['Un chocolate', 'Un protón'],
+  ['Un pan', 'Un neutrón'],
+  ['Un queso', 'Un bosón'],
+  
+  // Deportes y Actividades
+  ['Un balón de fútbol', 'La teoría de la relatividad'],
+  ['Una raqueta', 'La mecánica cuántica'],
+  ['Un casco', 'La física nuclear'],
+  ['Un patín', 'La astrofísica'],
+  ['Un bate', 'La cosmología'],
+  ['Un frisbee', 'La termodinámica'],
+  ['Un yo-yo', 'La óptica'],
+  ['Una cometa', 'La acústica'],
+  ['Un trompo', 'La electromagnetismo'],
+  ['Un balón de baloncesto', 'La gravedad'],
+  
+  // Música y Entretenimiento
+  ['Una guitarra', 'Un agujero de gusano'],
+  ['Un piano', 'Un agujero blanco'],
+  ['Un micrófono', 'Una supernova'],
+  ['Un tambor', 'Una nebulosa'],
+  ['Un violín', 'Un cúmulo estelar'],
+  ['Un saxofón', 'Una galaxia espiral'],
+  ['Un bajo', 'Un agujero negro supermasivo'],
+  ['Una flauta', 'Un quásar'],
+  ['Un órgano', 'Un púlsar'],
+  ['Un xilófono', 'Una enana blanca'],
+  
+  // Transporte
+  ['Un coche', 'La fotosíntesis'],
+  ['Un avión', 'La respiración celular'],
+  ['Un barco', 'La mitosis'],
+  ['Un tren', 'La meiosis'],
+  ['Una bicicleta', 'El ADN'],
+  ['Un autobús', 'El ARN'],
+  ['Un metro', 'Una proteína'],
+  ['Un camión', 'Una enzima'],
+  ['Un taxi', 'Un anticuerpo'],
+  ['Un submarino', 'Una célula'],
+  
+  // Clima y Fenómenos Naturales
+  ['Un tornado', 'Un diccionario'],
+  ['Un huracán', 'Una enciclopedia'],
+  ['Un rayo', 'Un libro de texto'],
+  ['Un terremoto', 'Una novela'],
+  ['Un tsunami', 'Un cómic'],
+  ['Una aurora', 'Un periódico'],
+  ['Un arcoíris', 'Una revista'],
+  ['Un eclipse', 'Un manual'],
+  ['Un meteorito', 'Una guía'],
+  ['Una nube', 'Un atlas'],
+];
+
+// Configuración del juego
+export const GAME_CONFIG = {
+  MIN_PLAYERS: 3,
+  DEFAULT_WRITING_TIME: 90, // segundos
+  DEFAULT_VOTING_TIME: 30, // segundos
+  DEFAULT_ROUNDS: 10,
+  POINTS_PER_VOTE: 100,
+};
+

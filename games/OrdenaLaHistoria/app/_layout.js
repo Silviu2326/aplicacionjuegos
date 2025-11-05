@@ -1,0 +1,16 @@
+import { Stack } from 'expo-router';
+
+export default function Layout() {
+  return (
+    <Stack
+      screenOptions={{
+        headerShown: false,
+      }}
+    >
+      <Stack.Screen name="index" />
+      <Stack.Screen name="ordena-la-historia-lobby/[gameCode]" />
+      <Stack.Screen name="ordena-la-historia-game/[gameCode]" />
+      <Stack.Screen name="ordena-la-historia-results/[gameCode]" />
+    </Stack>
+  );
+}
